@@ -8,7 +8,7 @@ I divided the project into 3 periods:
 2. First exchange of assortment May 2012
 3. last exchange of assortment May 2013
 
-Each period lasts 12 months and represents 36 months of bike sales in the store. 
+Each period lasts 12 months and represents 36 months of bike sales in the store. Gruoping and filtering is done in MS SQL. Visualization, analysis and model building is done in Jupyter notebook with Python. 
 
 After initial analysis, I created 2 algorithms to help estimate profit from new bike sales:
 #### 1. Predicting annual ROI based on all years of sales (Logistic Regression)
